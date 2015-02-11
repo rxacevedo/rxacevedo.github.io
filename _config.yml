@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://robertoacevedo.net" # the base hostname & protocol for your site
 twitter_username: rxacevedo
 github_username:  rxacevedo
-coinbase_userid: '549722b8b6f3c3f9c500008a'
+changetip: true
 
 # Build settings
 markdown: kramdown
